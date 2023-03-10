@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-jura: Jura;
+  --heading-1: Inter;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --heading-1-size: 40px;
+
+  /* Colors */
+  --color-midnightblue: #1a0c46;
+  --color-white: #fff;
+  --color-lightblue: #b4d4df;
+
+  /* Gaps */
+  --gap-12xs: 1px;
+
+  /* border radiuses */
+  --br-57xl: 76px;
+  --br-xl: 20px;
+}
